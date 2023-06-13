@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>083.jpg</filename>
+	<path>/Users/marina/Documents/proj/frames/083.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>857</ymin>
+			<xmax>928</xmax>
+			<ymax>1126</ymax>
+		</bndbox>
+	</object>
+</annotation>

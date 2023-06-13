@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>161.jpg</filename>
+	<path>/Users/marina/Documents/proj/frames/161.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lip balm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>834</ymin>
+			<xmax>936</xmax>
+			<ymax>939</ymax>
+		</bndbox>
+	</object>
+</annotation>
